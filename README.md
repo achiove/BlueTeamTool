@@ -4,7 +4,7 @@
 免责声明：
       如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果，我们将不承担任何法律及连带责任。
 
-github地址：https://github.com/achiove/BlueTeamTool/
+下载地址：https://github.com/achiove/BlueTeamTool/releases/tag/v1.0
 
 版本：1.0
 ## 反编译
