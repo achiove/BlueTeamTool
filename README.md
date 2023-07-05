@@ -6,7 +6,9 @@
 
 下载地址：https://github.com/achiove/BlueTeamTool/releases/tag/v1.0
 
-版本：1.0
+运行：java -jar BlueTeamTool.jar 
+
+版本：1.0 （仅支持jdk8)
 ## 反编译
 支持Java class反编译、base64解码后反编译、Bytes数组解码后反编译、$$BCEL$反编译、Base64解码Gunzip解码后反编译
 内嵌5种反编译工具：1、Procyon 2、CFR 3、FernFlower（IDEA内置) 4、jd-core （jd-gui）5、jdk反编译
